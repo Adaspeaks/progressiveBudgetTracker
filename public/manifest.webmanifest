@@ -16,5 +16,6 @@
   "theme_color": "#404040",
   "background_color": "#ffffff",
   "start_url": "/",
-  "display": "standalone"
+  "display": "standalone",
+  "description": "Manage your expenses wherever you go"
 }
